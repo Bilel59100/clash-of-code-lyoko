@@ -1,21 +1,34 @@
-C'est l'histoire d'une jeune amiche qui s'appelait Marie.
+C'est l'histoire d'une jeune amish qui s'appelait Marie.
 Marie a 14ans et vit dans une prairie non-loin du Winsconsine,comme tout le monde dans son village elle ne connait le monde moderne et ses nouvelles technologies.
 Un jour alors qu'elle ceuillait des fleurs près d'une vallée,elle vit quelque chose brillait non loin d'un arbre.
 Curieuse,elle alla donc à la rencontre de ce qui attirait son regard.
 Elle fut stupéfaite de ce qu'elle trouva 
 
+<<<<<<< HEAD:histoiree.txt
 <<<<<<< HEAD
 une sphère ronde de couleur rouge et blanche, elle inspecta la sphère et appuie accidentellement sur un bouton qui libéra une sorte de créature .
 La créature ressemble à un rat mais en plus grand,elle est de couleur jaune avec des oreilles pointues au bout marron,
  une queue avec une forme d'éclair jaune et marron au bout, des pomettes rouges et s'exclame avec des sons du genre pika pika chu. 
 =======
 Elle trouva un téléphone cacher sous un buisson c'était pour elle un objet qu'elle n'avait jamais vu de sa vie et elle décida de le ramener dans son village
+=======
+Elle trouva un téléphone cacher sous un buisson c'était pour elle un objet qu'elle n'avait jamais vu de sa vie et elle décida de le ramener dans son village.
+Sur la route elle croisa son frère Joseph, elle lui fit part de sa decouverte.Ayant deja fait sa Rumspringa, il savait ce qu'était cette objet.
+Il avait préféré retourner à sa vie antérieure jugeant ce mode de vie trop decadent par rapport au sien.
+Arès est l'un des enfants de Zeus et d'Héra.
+>>>>>>> 73b43c5a6df2c95d95f2fe8c1a32fafc857c1e5c:histoire.txt
 
-__________________________________________________________________________________________________________________________________________________________________
-es serpents, de nom scientifique Serpentes, forment un sous-ordre de squamates carnivores au corps très allongé et dépourvus de membres apparents. Il s'agit plus précisément de vertébrés amniotes caractérisés par un tégument recouvert d'écailles, imbriquées les unes sur les autres et protégées par une couche cornée épaisse, et par une thermorégulation assurée par trois mécanismes, l'ectothermie, la poïkilothermie et le bradymétabolisme. Ils sont aussi appelés plus rarement Ophidiens (du grec ὄφεις / ópheis).
-Les serpents ont comme caractéristiques spécifiques d'avoir une langue bifide, des yeux sans paupière, un crâne articulé et des mâchoires mobiles qui facilitent l'ingestion de proies. Ils partagent la disparition des pattes avec deux autres groupes de vertébrés tétrapodes : les amphisbènes, qui sont d'autres squamates, et les gymnophiones, qui appartiennent au groupe des lissamphibiens.
+Présentés dans l’Iliade comme purement fraternels, les rapports d'Arès et d'Aphrodite deviennent dans l’Odyssée3 à la fois amoureux et adultères, puisque la déesse de l'amour y est mariée à Héphaïstos — celui-ci étant l'époux d'une dénommée Charis dans l’Iliade. Encore une fois, Arès est tourné en ridicule : dénoncés par Hélios, le Soleil, les amoureux tombent dans le piège du mari trompé qui les capture dans un filet et les exhibe aux dieux hilares. Honteux, Arès part se réfugier en Thrace.
 
-Au cours de leur longue évolution qui remonte au Crétacé, les serpents ont perfectionné plusieurs modes de locomotion apode ainsi que leur système de préhension des proies, ce qui leur a permis de conquérir les biotopes les plus variés et d'occuper presque tous les climats, même les plus extrêmes à l'exception des climats polaires et sub-polaires, facteurs expliquant leur succès évolutif.
+Chez Hésiode4 et les poètes postérieurs5, Arès et Aphrodite sont présentés comme un couple légitime. Aphrodite donne à Arès trois enfants : Déimos, Phobos et Harmonie, épouse de Cadmos, le fondateur de Thèbes. (Arès à Thèbes, possédait une source, gardée par un dragon, dont il était le père. Lorsque Cadmos, pour accomplir un sacrifice, voulut puiser de l'eau à cette source, le dragon tenta de l'en empêcher. Cadmos le tua, et, pour expier ce meurtre, dut servir Arès pendant huit ans, en qualité d'esclave. Mais, à l'expiration de ce terme, les dieux marièrent Cadmos avec Harmonie, la fille d'Arès et d'Aphrodite.). La paternité d'Éros et Antéros apparaît pour la première fois chez le poète lyrique Simonide et paraît lui être attribuée plutôt par commodité. Il est aussi vu comme père de Pathos (la Passion) et de Himéros (le Désir).
 
+<<<<<<< HEAD:histoiree.txt
 Centre d'un symbolisme important qui renvoie à de nombreux mythes, contes et légendes, le serpent jouit d'un rôle ambivalent, combinant des aspects positifs et négatifs.
 >>>>>>> 3ad579b51ffcfe10d82e289e5eca3a4c4dcdb5cb
+=======
+Avec Tritée, la fille du dieu marin Triton, il engendre Mélanippos fondateur d'une cité qu'il nommera en l'honneur de sa mère.
+
+Arès est l'un des enfants de Zeus et d'Héra.
+
+Présentés dans l’Iliade comme purement fraternels, les rapports d'Arès et d'Aphrodite deviennent dans l’Odyssée3 à la fois amoureux et adultères, puisque la déesse de l'amour y est mariée à Héphaïstos — celui-ci étant l'époux d'une dénommée Charis dans l’Iliade. Encore une fois, Arès est tourné en ridicule : dénoncés par Hélios, le Soleil, les amoureux tombent dans le piège du mari trompé qui les capture dans un filet et les exhibe aux dieux hilares. Honteux, Arès part se réfugier en Thrace
+>>>>>>> 73b43c5a6df2c95d95f2fe8c1a32fafc857c1e5c:histoire.txt
